@@ -1,6 +1,6 @@
 # Gemmary
 
-[![Install userscript](https://img.shields.io/badge/Install-userscript-blue)](https://raw.githubusercontent.com/oooooooo/gemmary/main/gemmary.user.js) ![Chrome only](https://img.shields.io/badge/Chrome-138%2B_only-yellow?logo=googlechrome)
+[![Install userscript](https://img.shields.io/badge/Install-userscript-blue)](https://raw.githubusercontent.com/oooooooo/gemmary/main/gemmary.user.js) ![Chrome only](https://img.shields.io/badge/Chrome-138%2B_only-blue?logo=googlechrome)
 
 Gemmary (/ˈdʒɛməri/) — a portmanteau of **Gemini Nano** and **summary** — is a
 Chrome-only userscript that summarizes any web page on-device using Chrome's

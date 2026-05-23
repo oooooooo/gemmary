@@ -326,7 +326,9 @@
 			.querySelectorAll(
 				'script,style,noscript,nav,footer,aside,form,iframe,svg,canvas,[aria-hidden="true"]',
 			)
-			.forEach((el) => el.remove());
+			.forEach((el) => {
+				el.remove();
+			});
 
 		const content =
 			clone.querySelector("article") ||
